@@ -1,4 +1,4 @@
-! Arduino Projects
----
+!Arduino Projects
+===============
 
-A Collection of Aduino scripts for learning purposes.
+Arduino projects I've written while learning how to use the platform
