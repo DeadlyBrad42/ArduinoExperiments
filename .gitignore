@@ -1,0 +1,7 @@
+# Git ignore file - Arduino Projects
+
+# Ignore "Guides" folder
+Guides/
+
+# Ignore unfinished prototypes
+*-wip
